@@ -20,4 +20,8 @@ My client wants to open a surf and ice cream shop in Hawaii, but wants to make s
 
 ### Summary
 
-Overall, the temperature is very consistent, which means it should not impact profits througout the year. I do want to continue with two more queries. First, I want to check the average amounts of precipitation per month. In tropical climate, there can be a wet season. Dedicated surfers might not mind a little rain, but that could impact how much ice cream is purchased. I would also want to query the temperature/rain by weather station. This would let us pick which side of the island the shop should be located. It might be rainier in the north, or south and we should find that out. 
+Overall, the temperature is very consistent, which means it should not impact profits througout the year.
+
+I do want to continue with two more queries. 
+* First, I want to check the average amounts of precipitation per month. In tropical climate, there can be a wet season. Dedicated surfers might not mind a little rain, but that could impact how much ice cream is purchased. 
+* I would also want to query the temperature/rain by weather station. This would let us pick which side of the island the shop should be located. It might be rainier in the north, or south and we should find that out. 
